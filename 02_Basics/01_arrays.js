@@ -1,4 +1,4 @@
-// Arrays
+// Arrays part 1
 
 // const myArr = [0, 1, 2, 3, 4, 5, true, "lalan"];
 const myArr = [0, 1, 2, 3, 4, 5]
